@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maximus82190/udemy-React-App/tree/main/finance-app/static/css/main.77a7edc9.css",
+    "main.js": "/maximus82190/udemy-React-App/tree/main/finance-app/static/js/main.8a02af18.js",
+    "static/js/787.aca14881.chunk.js": "/maximus82190/udemy-React-App/tree/main/finance-app/static/js/787.aca14881.chunk.js",
+    "index.html": "/maximus82190/udemy-React-App/tree/main/finance-app/index.html",
+    "main.77a7edc9.css.map": "/maximus82190/udemy-React-App/tree/main/finance-app/static/css/main.77a7edc9.css.map",
+    "main.8a02af18.js.map": "/maximus82190/udemy-React-App/tree/main/finance-app/static/js/main.8a02af18.js.map",
+    "787.aca14881.chunk.js.map": "/maximus82190/udemy-React-App/tree/main/finance-app/static/js/787.aca14881.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a7edc9.css",
+    "static/js/main.8a02af18.js"
+  ]
+}
